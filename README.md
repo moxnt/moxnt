@@ -1,6 +1,6 @@
 Hi!
 
-I'm Richard, but I go by **mox** or **moxnt** for some reason.
+My name Richard, but I go by **mox** or **moxnt** for some reason.
 I like fast paced flashy stuff and writing software for convenience.
 Currently *getting my education* stats up, but still *looking for opportunities* in the meantime.
 <!---
