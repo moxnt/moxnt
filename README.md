@@ -1,6 +1,6 @@
 Hi!
 
-My name Richard, but I go by **mox** or **moxnt** for some reason.
+My name Richard, but for some reason my username is *mox* or *moxnt*.
 I like fast paced flashy stuff and writing software for convenience.
 I'm studying at Riga Technical college, and I work on fun or interesting projects in my spare time.
 <!---
